@@ -132,8 +132,8 @@ class MarshallsRevenue
         x = 0;
         while (x < num)
         {
-        Hi my name is Carmen Winstead.
-/* Im 17 years old. I am very similar to you
+       /* Hi my name is Carmen Winstead.
+ Im 17 years old. I am very similar to you
 Did I mention to you that Im dead?
 i have put myself in this code to curse you
 A few years ago a group of girls pushed me down a sewer hole to try and embarrass me.
